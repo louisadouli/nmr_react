@@ -1,0 +1,5 @@
+pump_name,pump_port,equivalent,concentration_stock_solution,desired_concentration
+Monomer,COM8,100,6,1
+Initiator,COM6,1,0.06,
+Catalyst,COM3,0.1,0.006,
+Solvent,COM4,,,
